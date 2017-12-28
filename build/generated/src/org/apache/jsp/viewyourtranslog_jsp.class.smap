@@ -1,0 +1,39 @@
+SMAP
+viewyourtranslog_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewyourtranslog.jsp
+viewyourtranslog.jsp
++ 1 header.jsp
+header.jsp
++ 2 menu.jsp
+menu.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,11:55
+16,7:67
+22,3:74
+5#1,4:77
+24#0,2:81
+1#2,3:83
+3:85,9
+5,6:95
+10,22:101
+32,2:123,3
+34:129
+35:130,3
+36,11:133
+25#0,17:143
+42,5:161
+46,2:166
+48,7:168,3
+55,7:189
+62:196,3
+63,4:199
+67,5:204
+71,2:209
+5#3,16:211
+72#0,5:226
+*E
