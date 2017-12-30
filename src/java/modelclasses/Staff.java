@@ -86,7 +86,6 @@ public class Staff {
                 System.out.println(ten);
                 dob = rs.getString("Dob");
                 sex = rs.getString("Sex");
-                // git2
                 System.out.println(sex);
                 CMND = rs.getString("CMND");
                 pW = rs.getString("PW");
