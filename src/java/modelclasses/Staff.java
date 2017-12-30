@@ -24,7 +24,7 @@ public class Staff {
     private String ho;
     private String ten;
     private String dob; //chaned github
-    private String sex;
+    private String sex; // changed github demo
     private String CMND;
     private String pW;
     private String status;// Khai báo các fields cụ thể và thứ tự như vậy để khi sử dụng lên quan đến constructor nó theo thứ tự khỏi nhầm.
