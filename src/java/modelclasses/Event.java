@@ -108,7 +108,7 @@ public class Event {
         this.eventID=MaSK;
         this.nameEvent=TenSK;
     }
-    //
+    
     @Override
     public String toString() {
         return "Mã sự kiện:  " + eventID + " Tên sự kiện: " + nameEvent;
