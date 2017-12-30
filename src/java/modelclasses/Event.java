@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  * @author CỌP
  */
 public class Event {
-
+//
     private int eventID;
     private String nameEvent;
     private String statusEvent;
