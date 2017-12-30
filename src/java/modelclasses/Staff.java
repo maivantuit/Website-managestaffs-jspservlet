@@ -25,7 +25,7 @@ public class Staff {
     private String ten;
     private String dob; //chaned github
     private String sex; // changed github demo
-    private String CMND;
+    private String CMND; // changed github demo2
     private String pW;
     private String status;// Khai báo các fields cụ thể và thứ tự như vậy để khi sử dụng lên quan đến constructor nó theo thứ tự khỏi nhầm.
     static Connection connect = null;// tại sao bỏ in constructor not para lại lỗi?, để gọi bên bước 3, 4?. nếu bỏ in hàm dựng đó, nó là thuộc tính cục bộ.^^
