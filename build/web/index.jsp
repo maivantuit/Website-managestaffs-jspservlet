@@ -17,5 +17,6 @@
         <%@ include file="menu.jsp" %>
         <%@ include file="content.jsp" %>
         <%@ include file="footer.jsp" %>
+        <%--test commit, comtributions git--%>
     </body>
 </html>

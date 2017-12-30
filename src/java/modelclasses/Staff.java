@@ -183,7 +183,7 @@ public class Staff {
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             String connectionURL = "jdbc:sqlserver://localhost:1433;databaseName=QuanLyNhanSu;user=sa;password=123";
             connect = DriverManager.getConnection(connectionURL);
-
+            System.out.println("");
         } catch (ClassNotFoundException ex) {
             System.out.println("Error: not found class when nạp trình điều khiển đăng ký driver " + ex.getMessage());
         } catch (SQLException ex) {
